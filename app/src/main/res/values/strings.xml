@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">aditya cli</string>
+    <string name="version">Version</string>
+    <string name="version_code">Version Code</string>
+    <string name="btn_toast">Toast</string>
+    <string name="version_name">Version Name</string>
+
 </resources>
