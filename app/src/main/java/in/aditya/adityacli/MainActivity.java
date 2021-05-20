@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         tv_version_number.setText(BuildConfig.VERSION_NAME);
 
         btn_toast.setOnClickListener(v -> Toast.makeText(MainActivity.this, "Hello World", Toast.LENGTH_SHORT).show());
+//        Lets add comment for version tag
 
     }
 }
