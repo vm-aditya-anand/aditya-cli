@@ -59,6 +59,6 @@ jobs:
           # 3
           packageName: com.raywenderlich.android.rwquotes
           releaseFile: app-release-unsigned-signed.apk
-          track: internalsharing
+          track: internal
           userFraction: 0.50
           mappingFile: mapping.txt
